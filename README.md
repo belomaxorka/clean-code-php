@@ -2091,7 +2091,7 @@ function showList(array $employees): void
    * [panuwizzle/clean-code-php](https://github.com/panuwizzle/clean-code-php)
 * :fr: **Французский:**
    * [errorname/clean-code-php](https://github.com/errorname/clean-code-php)
-* :vietnam: **Вьетнамский**
+* :vietnam: **Вьетнамский:**
    * [viethuongdev/clean-code-php](https://github.com/viethuongdev/clean-code-php)
 * :kr: **Корейский:**
    * [yujineeee/clean-code-php](https://github.com/yujineeee/clean-code-php)
