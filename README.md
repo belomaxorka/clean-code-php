@@ -388,7 +388,7 @@ function createMicrobrewery($name = null): void
 
 **Хорошо:**
 
-Вы можете использовать [контроль типов](http://php.net/manual/en/functions.arguments.php#functions.arguments.type-declaration) и быть увереным, что переменная `$breweryName` никогда не будет `NULL`.
+Вы можете использовать [контроль типов](https://www.php.net/manual/ru/language.types.declarations.php) и быть увереным, что переменная `$breweryName` никогда не будет `NULL`.
 
 ```php
 function createMicrobrewery(string $breweryName = 'Hipster Brew Co.'): void
