@@ -2102,7 +2102,7 @@ function showList(array $employees): void
 * :bangladesh: **Бенгальский:**
    * [nayeemdev/clean-code-php](https://github.com/nayeemdev/clean-code-php) 
 * :egypt: **Арабский:**
-    * [ahmedjoda/clean-code-php](https://github.com/ahmedjoda/clean-code-php)  
+    * [ahmedalmory/clean-code-php](https://github.com/ahmedalmory/clean-code-php)  
 * :jp: **Японский:**
     * [hayato07/clean-code-php](https://github.com/hayato07/clean-code-php)
 
