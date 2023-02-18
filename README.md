@@ -1987,7 +1987,7 @@ class Manager
 
 ## Не повторяйся (Don’t repeat yourself, DRY)
 
-Постарайтесь соблюдать принцип [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself).
+Постарайтесь соблюдать принцип [DRY](https://ru.wikipedia.org/wiki/Don%27t_repeat_yourself).
 
 Старайтесь полностью избавиться от дублирующего кода. Он плох тем, что если вам нужно менять логику, то это придётся делать в нескольких местах.
 
