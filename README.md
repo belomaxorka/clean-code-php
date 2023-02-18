@@ -50,7 +50,7 @@
 ## Введение
 
 Это принципы разработки ПО, взятые из книги
-[*Clean Code*](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) Роберта Мартина и
+[*Чистый код*](https://www.livelib.ru/book/1000770866-chistyj-kod-sozdanie-analiz-i-refaktoring-biblioteka-programmista-robert-martin) Роберта Мартина и
 адаптированные для PHP. Это руководство не по стилям программирования, а по созданию читабельного, многократно
 используемого и пригодного для рефакторинга кода на PHP.
 
