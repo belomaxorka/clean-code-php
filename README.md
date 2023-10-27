@@ -2082,6 +2082,8 @@ function showList(array $employees): void
    * [php-cpm/clean-code-php](https://github.com/php-cpm/clean-code-php)
 * :ru: **Русский:**
    * [peter-gribanov/clean-code-php](https://github.com/peter-gribanov/clean-code-php)
+* :ukraine: **Украинский:**
+   * [PetroOstapuk/clean-code-php](https://github.com/PetroOstapuk/clean-code-php)
 * :es: **Испанский:**
    * [fikoborquez/clean-code-php](https://github.com/fikoborquez/clean-code-php)
 * :brazil: **Португальский:**
@@ -2102,8 +2104,12 @@ function showList(array $employees): void
 * :bangladesh: **Бенгальский:**
    * [nayeemdev/clean-code-php](https://github.com/nayeemdev/clean-code-php) 
 * :egypt: **Арабский:**
-    * [ahmedalmory/clean-code-php](https://github.com/ahmedalmory/clean-code-php)  
+   * [ahmedalmory/clean-code-php](https://github.com/ahmedalmory/clean-code-php)  
 * :jp: **Японский:**
-    * [hayato07/clean-code-php](https://github.com/hayato07/clean-code-php)
+   * [hayato07/clean-code-php](https://github.com/hayato07/clean-code-php)
+* :indonesia: **Индонезийский:**
+   * [ranggakd/clean-code-php](https://github.com/ranggakd/clean-code-php)
+* :uz: **Узбекский:**
+   * [iAbbos/clean-code-php](https://github.com/iAbbos/clean-code-php)
 
 **[⬆ вернуться к началу](#Содержание)**
